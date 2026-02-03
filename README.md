@@ -12,6 +12,7 @@ A clean and simple desktop weather application built with Python and Tkinter. It
 
 1. Clone the repository
    git clone [https://github.com/andar-tnkr/weather-app.git](https:https://github.com/andar-tnkr/weather-app)
+   
    cd weather-app
 
 2. Install dependencies
